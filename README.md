@@ -1,3 +1,5 @@
+[![DOI](https://sandbox.zenodo.org/badge/1070761641.svg)](https://handle.test.datacite.org/10.5072/zenodo.387563)
+
 # A Git tutorial
 
 This repository contains tutorial information related to the **NBIS/ELIXIR** course
